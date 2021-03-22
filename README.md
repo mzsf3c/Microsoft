@@ -1,7 +1,6 @@
-# ActiveDirectorySecurityAssessment
+# Microsoft
 
-Collection of Active Directory security assessment activities and recommendations, based on multiple web-casts and 
-lessons from the field in order to improve cyber security resilience.
+Collection of personal files
 
 
 ## Getting Started
