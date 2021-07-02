@@ -17,7 +17,7 @@ n/a
 
 ## Versioning
 
-Using Month <version number> Year
+**Using:** Month version-number Year (e.g. June V1.0 2021)
 
 ## Authors
 
