@@ -5,18 +5,19 @@ Collection of personal files
 
 ## Getting Started
 
-
+PDF versions of presentation slides I have created and used, fully anonimized!
 
 ### Prerequisites
 
-
+none
 
 ## Contributing
 
+n/a
 
 ## Versioning
 
-Currently in private development, no active versioning used!
+Using Month <version number> Year
 
 ## Authors
 
